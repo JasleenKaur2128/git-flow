@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Homer Simpson",
+    "age": 39,
+    "occupation": "Nuclear Safety Operations Supervisor",
+    "favorite_food": "Donuts",
+    "catchphrase": "D'oh!",
+    "family": [
+      "Marge Simpson",
+      "Bart Simpson",
+      "Lisa Simpson",
+      "Maggie Simpson"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+  },
+  {
+    "id": 2,
+    "name": "Marge Simpson",
+    "age": 36,
+    "occupation": "Housewife",
+    "favorite_food": "Lamb",
+    "catchphrase": "Homer!",
+    "family": [
+      "Homer Simpson",
+      "Bart Simpson",
+      "Lisa Simpson",
+      "Maggie Simpson"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
+  },
+  {
+    "id": 3,
+    "name": "Bart Simpson",
+    "age": 10,
+    "occupation": "Student",
+    "favorite_food": "Krusty Burgers",
+    "catchphrase": "Eat my shorts!",
+    "family": [
+      "Homer Simpson",
+      "Marge Simpson",
+      "Lisa Simpson",
+      "Maggie Simpson"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
+  },
+  {
+    "id": 4,
+    "name": "Lisa Simpson",
+    "age": 8,
+    "occupation": "Student",
+    "favorite_food": "Kale",
+    "catchphrase": "If anyone wants me, I'll be in my room.",
+    "family": [
+      "Homer Simpson",
+      "Marge Simpson",
+      "Bart Simpson",
+      "Maggie Simpson"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+  },
+  {
+    "id": 5,
+    "name": "Maggie Simpson",
+    "age": 1,
+    "occupation": "Baby",
+    "favorite_food": "Milk",
+    "catchphrase": "...",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
+  }
+]
