@@ -15,7 +15,7 @@ function Hero() {
               alt={simpson.name}
               className="simpson__image"
             />
-            <h4>{simpson.name}</h4>
+            <h3>{simpson.name}</h3>
           </article>
         ))}
       </section>
