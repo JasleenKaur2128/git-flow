@@ -6,7 +6,7 @@ function Hero() {
   const [data, setData] = useState(dataList);
   return (
     <main>
-      <h3>Simpsons Data</h3>
+      <h2>Simpsons Data</h2>
       <section className="simpson">
         {data.map((simpson) => (
           <article key={simpson.id} className="simpson__card">
